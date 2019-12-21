@@ -12,6 +12,7 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D1863](https://code.wildfiregames.com/D1863): Reduce Blemmye and Nuba camp building time.
 * [D2022](https://code.wildfiregames.com/D2022): Enable archery tradition for kush.
 * [D2300](https://code.wildfiregames.com/D2300): Single walking speed for all citizen infantry.
+* [D2493](https://code.wildfiregames.com/D2493): Make siege engines uncapturable.
 Also available, although not included in this mod:
 * [D2477](https://code.wildfiregames.com/D2477): Garrison units on short wall segments.
 
