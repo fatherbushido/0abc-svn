@@ -57,19 +57,6 @@
   <Promotion>
     <RequiredXp>150</RequiredXp>
   </Promotion>
-  <ResourceGatherer>
-    <MaxDistance>2.0</MaxDistance>
-    <BaseSpeed>1.0</BaseSpeed>
-    <Rates>
-      <food.meat>5</food.meat>
-    </Rates>
-    <Capacities>
-      <food>20</food>
-      <wood>20</wood>
-      <stone>20</stone>
-      <metal>20</metal>
-    </Capacities>
-  </ResourceGatherer>
   <Selectable>
     <Overlay>
       <Texture>
