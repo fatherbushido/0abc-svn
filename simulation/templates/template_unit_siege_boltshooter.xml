@@ -3,25 +3,15 @@
   <Attack>
     <Ranged>
       <Damage>
-        <Hack>0.0</Hack>
-        <Pierce>150.0</Pierce>
-        <Crush>25.0</Crush>
+        <Hack>0</Hack>
+        <Pierce>180</Pierce>
+        <Crush>0</Crush>
       </Damage>
-      <MaxRange>80.0</MaxRange>
-      <MinRange>26.0</MinRange>
+      <MaxRange>90</MaxRange>
+      <MinRange>15</MinRange>
       <PrepareTime>3000</PrepareTime>
       <RepeatTime>4000</RepeatTime>
       <Delay>0</Delay>
-      <Splash>
-        <Shape>Linear</Shape>
-        <Range>8.0</Range>
-        <FriendlyFire>false</FriendlyFire>
-        <Damage>
-          <Hack>0.0</Hack>
-          <Pierce>75.0</Pierce>
-          <Crush>5.0</Crush>
-        </Damage>
-      </Splash>
       <Projectile>
         <Speed>150.0</Speed>
         <Spread>2.0</Spread>
