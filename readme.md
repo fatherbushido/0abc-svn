@@ -7,12 +7,12 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [Committed patches](https://github.com/0abc/0abc-svn#committed)
 
 ## Gameplay Balance
+* [D2300](https://code.wildfiregames.com/D2300): Single walking speed for all citizen infantry.
 Also available, although not included in this mod:
 * [D896](https://code.wildfiregames.com/D896): Disabled training cavalry at civil centres.
 * [D1762](https://code.wildfiregames.com/D1762): Give fortress a territory root.
 * [D1863](https://code.wildfiregames.com/D1863): Reduce Blemmye and Nuba camp building time.
-* [D2202](https://code.wildfiregames.com/D2202): Enable archery tradition for kush.
-* [D2300](https://code.wildfiregames.com/D2300): Single walking speed for all citizen infantry.
+* [D2022](https://code.wildfiregames.com/D2022): Enable archery tradition for kush.
 * [D2477](https://code.wildfiregames.com/D2477): Garrison units on short wall segments.
 
 [(return to table of contents)](https://github.com/0abc/0abc-svn#table-of-contents)
@@ -22,6 +22,7 @@ Also available, although not included in this mod:
 * [D888](https://code.wildfiregames.com/D896): Regrouped special technologies.
 * [D918](https://code.wildfiregames.com/D918): Technology naming consistency: storehouse and farmstead researches.
 * [D1775](https://code.wildfiregames.com/D1775): Delete unused technologies.
+* [D2251](https://code.wildfiregames.com/D2251): AI: replace Cavalry with new Mounted class.
 
 [(return to table of contents)](https://github.com/0abc/0abc-svn#table-of-contents)
 
