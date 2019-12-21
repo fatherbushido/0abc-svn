@@ -24,8 +24,7 @@
   </Attack>
   <Cost>
     <Resources>
-      <stone>30</stone>
-      <wood>20</wood>
+      <wood>50</wood>
     </Resources>
   </Cost>
   <Identity>
@@ -33,7 +32,7 @@
     <GenericName>Slinger</GenericName>
   </Identity>
   <Loot>
-    <stone>5</stone>
+    <wood>5</wood>
   </Loot>
   <Sound>
     <SoundGroups>

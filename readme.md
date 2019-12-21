@@ -17,6 +17,8 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2494](https://code.wildfiregames.com/D2494): Tweak artillery attacks.
 * [D2495](https://code.wildfiregames.com/D2495): Disable artillery towers and bolt towers.
 * [D2496](https://code.wildfiregames.com/D2496): Tweak citizen cavalry and worker elephant footprints.
+* [D2497](https://code.wildfiregames.com/D2497): Keep stone for structures.
+* [D2498](https://code.wildfiregames.com/D2498): Cavalry can no longer gather (meat).
 
 [(return to table of contents)](https://github.com/0abc/0abc-svn#table-of-contents)
 
