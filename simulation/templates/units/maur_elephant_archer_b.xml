@@ -22,9 +22,9 @@
       <metal>20</metal>
     </Resources>
   </Cost>
-  <Footprint replace="">
-    <Circle radius="3.5"/>
-    <Height>8.0</Height>
+  <Footprint>
+    <Square width="4" depth="8"/>
+    <Height>10</Height>
   </Footprint>
   <Health>
     <Max op="mul">2.0</Max>

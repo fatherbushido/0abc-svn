@@ -16,9 +16,22 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2493](https://code.wildfiregames.com/D2493): Make siege engines uncapturable.
 * [D2494](https://code.wildfiregames.com/D2494): Tweak artillery attacks.
 * [D2495](https://code.wildfiregames.com/D2495): Disable artillery towers and bolt towers.
-* [D2496](https://code.wildfiregames.com/D2496): Tweak citizen cavalry and worker elephant footprints.
+* [D2496](https://code.wildfiregames.com/D2496): Tweak citizen cavalry and elephant footprints.
 * [D2497](https://code.wildfiregames.com/D2497): Keep stone for structures.
 * [D2498](https://code.wildfiregames.com/D2498): Cavalry can no longer gather (meat).
+<!--
+wall footprints
+wall vision
+wall territory influence
+palisade buildable territory
+field buildable territory
+ranged and ram can't attack fields
+economic territory influence
+pillar territory influence
+town and city phase prerequisits
+athen metal mining bonus
+maur, pers, spart population cap
+-->
 
 [(return to table of contents)](https://github.com/0abc/0abc-svn#table-of-contents)
 
