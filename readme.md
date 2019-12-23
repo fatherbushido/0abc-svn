@@ -22,10 +22,10 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2502](https://code.wildfiregames.com/D2502): Adjust wall footprints.
 * [D2504](https://code.wildfiregames.com/D2504): Remove territory influence from arch, monument, pillar.
 * [D2505](https://code.wildfiregames.com/D2505): Tweak wall vision.
+* [D2506](https://code.wildfiregames.com/D2506): Allow building fields in neutral territory.
 <!--
 wall territory influence
 palisade buildable territory
-field buildable territory
 ranged and ram can't attack fields
 economic territory influence
 town and city phase prerequisits
