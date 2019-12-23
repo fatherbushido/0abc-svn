@@ -11,6 +11,7 @@
       <PrepareTime>750</PrepareTime>
       <RepeatTime>1500</RepeatTime>
       <PreferredClasses datatype="tokens">Gates Structure</PreferredClasses>
+      <RestrictedClasses datatype="tokens">Field</RestrictedClasses>
     </Melee>
   </Attack>
   <Cost>

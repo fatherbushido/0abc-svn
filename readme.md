@@ -24,9 +24,9 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2505](https://code.wildfiregames.com/D2505): Tweak wall vision.
 * [D2506](https://code.wildfiregames.com/D2506): Allow building fields in neutral territory.
 * [D2507](https://code.wildfiregames.com/D2507): Allow building palisades in any territory.
+* [D2508](https://code.wildfiregames.com/D2508): Prevent ships and siege engines from attacking fields.
 <!--
 city wall territory influence
-ranged and ram can't attack fields
 economic territory influence
 town and city phase prerequisits
 athen metal mining bonus

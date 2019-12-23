@@ -3,45 +3,45 @@
   <Attack>
     <Ranged>
       <Damage>
-        <Hack>0</Hack>
-        <Pierce>0</Pierce>
-        <Crush>100</Crush>
+        <Hack>0.0</Hack>
+        <Pierce>35.0</Pierce>
+        <Crush>0.0</Crush>
       </Damage>
-      <MaxRange>75</MaxRange>
-      <MinRange>15</MinRange>
-      <PrepareTime>2000</PrepareTime>
-      <RepeatTime>5000</RepeatTime>
+      <MaxRange>55.0</MaxRange>
+      <MinRange>0.0</MinRange>
+      <PrepareTime>1000</PrepareTime>
+      <RepeatTime>2000</RepeatTime>
       <Delay>0</Delay>
       <Projectile>
-        <Speed>37.5</Speed>
-        <Spread>4.0</Spread>
-        <Gravity>9.81</Gravity>
+        <Speed>75.0</Speed>
+        <Spread>2.0</Spread>
+        <Gravity>39.81</Gravity>
         <LaunchPoint y="3"/>
       </Projectile>
-      <PreferredClasses datatype="tokens">Ship Structure</PreferredClasses>
+      <PreferredClasses datatype="tokens">Ship Human</PreferredClasses>
       <RestrictedClasses datatype="tokens">Field</RestrictedClasses>
     </Ranged>
   </Attack>
   <BuildingAI>
-    <DefaultArrowCount>1</DefaultArrowCount>
-    <MaxArrowCount>10</MaxArrowCount>
+    <DefaultArrowCount>3</DefaultArrowCount>
+    <MaxArrowCount>13</MaxArrowCount>
     <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
-    <GarrisonArrowClasses>StoneThrower</GarrisonArrowClasses>
+    <GarrisonArrowClasses>Infantry Cavalry</GarrisonArrowClasses>
   </BuildingAI>
   <Cost>
     <Population>3</Population>
-    <BuildTime>30</BuildTime>
+    <BuildTime>25</BuildTime>
     <Resources>
-      <wood>400</wood>
-      <metal>400</metal>
+      <wood>150</wood>
+      <metal>150</metal>
     </Resources>
   </Cost>
   <Footprint>
-    <Square width="12.0" depth="48.0"/>
+    <Square width="10.0" depth="40.0"/>
     <Height>8.0</Height>
   </Footprint>
   <GarrisonHolder>
-    <Max>50</Max>
+    <Max>30</Max>
     <EjectHealth>0</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">FemaleCitizen Infantry Healer Dog</EjectClassesOnDestroy>
     <List datatype="tokens">Support Infantry Cavalry Dog Siege Elephant</List>
@@ -50,29 +50,27 @@
     <Pickup>true</Pickup>
   </GarrisonHolder>
   <Health>
-    <Max>2000</Max>
+    <Max>1400</Max>
   </Health>
   <Identity>
-    <VisibleClasses datatype="tokens">Ranged Warship Quinquereme</VisibleClasses>
-    <GenericName>Heavy Warship</GenericName>
-    <RequiredTechnology>phase_city</RequiredTechnology>
+    <VisibleClasses datatype="tokens">Ranged Warship Trireme</VisibleClasses>
+    <GenericName>Medium Warship</GenericName>
+    <RequiredTechnology>phase_town</RequiredTechnology>
     <Tooltip>Garrison units for transport and to increase firepower.</Tooltip>
   </Identity>
   <Loot>
-    <xp>150</xp>
-    <wood>40</wood>
-    <metal>40</metal>
+    <xp>100</xp>
+    <wood>30</wood>
+    <metal>20</metal>
   </Loot>
   <ResourceGatherer disable=""/>
   <Sound>
     <SoundGroups>
-      <attack_ranged>attack/siege/ballist_attack.xml</attack_ranged>
+      <attack_impact_ranged>attack/impact/arrow_impact.xml</attack_impact_ranged>
+      <attack_ranged>attack/weapon/bow_attack.xml</attack_ranged>
     </SoundGroups>
   </Sound>
   <UnitMotion>
     <WalkSpeed op="mul">1.8</WalkSpeed>
   </UnitMotion>
-  <Vision>
-    <Range>110</Range>
-  </Vision>
 </Entity>

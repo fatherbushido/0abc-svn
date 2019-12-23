@@ -21,6 +21,7 @@
         <ImpactAnimationLifetime>0.1</ImpactAnimationLifetime>
       </Projectile>
       <PreferredClasses datatype="tokens">Structure</PreferredClasses>
+      <RestrictedClasses datatype="tokens">Field</RestrictedClasses>
     </Ranged>
   </Attack>
   <Cost>
