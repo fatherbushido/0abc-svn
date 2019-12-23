@@ -27,6 +27,7 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2508](https://code.wildfiregames.com/D2508): Prevent ships and siege engines from attacking fields.
 * [D2509](https://code.wildfiregames.com/D2509): Remove territory influence from economic structures.
 * [D2510](https://code.wildfiregames.com/D2510): Change phase requirements.
+* [D2511](https://code.wildfiregames.com/D2511): Give worker elephants an aura instead.
 <!--
 city wall territory influence
 athen metal mining bonus

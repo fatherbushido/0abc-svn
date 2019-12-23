@@ -5,10 +5,9 @@
     <Pierce>8</Pierce>
     <Crush>10</Crush>
   </Armour>
-  <Builder>
-    <Rate>2.0</Rate>
-    <Entities datatype="tokens"/>
-  </Builder>
+  <Auras datatype="tokens">
+    units/elephant_worker
+  </Auras>
   <Cost>
     <BuildTime>20</BuildTime>
     <Resources>
