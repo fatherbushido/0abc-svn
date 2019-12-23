@@ -19,15 +19,15 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2496](https://code.wildfiregames.com/D2496): Tweak citizen cavalry and elephant footprints.
 * [D2497](https://code.wildfiregames.com/D2497): Keep stone for structures.
 * [D2498](https://code.wildfiregames.com/D2498): Cavalry can no longer gather (meat).
+* [D2502](https://code.wildfiregames.com/D2502): Adjust wall footprints.
+* [D2504](https://code.wildfiregames.com/D2504): Remove territory influence from arch, monument, pillar.
 <!--
-wall footprints
 wall vision
 wall territory influence
 palisade buildable territory
 field buildable territory
 ranged and ram can't attack fields
 economic territory influence
-pillar territory influence
 town and city phase prerequisits
 athen metal mining bonus
 maur, pers, spart population cap
