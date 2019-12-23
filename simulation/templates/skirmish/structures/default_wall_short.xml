@@ -2,17 +2,18 @@
 <Entity parent="template_structure_defensive_wall_short">
   <Footprint>
     <Square width="13" depth="9"/>
-    <Height>9.9</Height>
+    <Height>13.5</Height>
   </Footprint>
   <Identity>
-    <Civ>rome</Civ>
-    <SelectionGroupName>structures/rome_wallset_stone</SelectionGroupName>
-    <SpecificName>Moenia</SpecificName>
+    <Civ>skirm</Civ>
   </Identity>
   <Obstruction>
     <Static width="12" depth="8"/>
   </Obstruction>
+  <SkirmishReplacer>
+    <general>structures/{civ}_wall_short</general>
+  </SkirmishReplacer>
   <VisualActor>
-    <Actor>structures/romans/wall_short.xml</Actor>
+    <Actor>structures/hellenes/wall_short.xml</Actor>
   </VisualActor>
 </Entity>

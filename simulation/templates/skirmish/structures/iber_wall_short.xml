@@ -5,13 +5,12 @@
     <Height>10.0</Height>
   </Footprint>
   <Identity>
-    <Civ>iber</Civ>
-    <SelectionGroupName>structures/iber_wallset_stone</SelectionGroupName>
-    <SpecificName>Zabal Horma</SpecificName>
+    <Civ>skirm</Civ>
   </Identity>
   <Obstruction>
     <Static width="12" depth="7"/>
   </Obstruction>
+  <SkirmishReplacer/>
   <VisualActor>
     <Actor>structures/iberians/wall_short.xml</Actor>
   </VisualActor>

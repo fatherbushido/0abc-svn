@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defensive_wall_medium">
+  <Footprint>
+    <Square width="22" depth="6"/>
+    <Height>12.5</Height>
+  </Footprint>
+  <Identity>
+    <Civ>sele</Civ>
+    <SelectionGroupName>structures/sele_wallset_stone</SelectionGroupName>
+    <SpecificName>Teichos</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="21" depth="5"/>
+  </Obstruction>
+  <VisualActor>
+    <Actor>structures/seleucids/wall_med.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>21</Length>
+  </WallPiece>
+</Entity>
