@@ -74,7 +74,7 @@
     <HeightOffset>20.0</HeightOffset>
   </StatusBars>
   <Vision>
-    <Range>60</Range>
+    <Range>75</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_3x3_tower.xml</FoundationActor>

@@ -21,8 +21,8 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2498](https://code.wildfiregames.com/D2498): Cavalry can no longer gather (meat).
 * [D2502](https://code.wildfiregames.com/D2502): Adjust wall footprints.
 * [D2504](https://code.wildfiregames.com/D2504): Remove territory influence from arch, monument, pillar.
+* [D2505](https://code.wildfiregames.com/D2505): Tweak wall vision.
 <!--
-wall vision
 wall territory influence
 palisade buildable territory
 field buildable territory
