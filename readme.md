@@ -26,9 +26,9 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2507](https://code.wildfiregames.com/D2507): Allow building palisades in any territory.
 * [D2508](https://code.wildfiregames.com/D2508): Prevent ships and siege engines from attacking fields.
 * [D2509](https://code.wildfiregames.com/D2509): Remove territory influence from economic structures.
+* [D2510](https://code.wildfiregames.com/D2510): Change phase requirements.
 <!--
 city wall territory influence
-town and city phase prerequisits
 athen metal mining bonus
 maur, pers, spart population cap
 -->
