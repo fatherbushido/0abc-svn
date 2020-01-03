@@ -31,10 +31,13 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2530](https://code.wildfiregames.com/D2530): Change `pers_cavalry_archer_*` actor.
 * [D2532](https://code.wildfiregames.com/D2532): Train champion cavalry at stable.
 * [D2533](https://code.wildfiregames.com/D2533): Train war dogs at barracks.
+* [D2534](https://code.wildfiregames.com/D2534): Allow building Blemmye camp and Nuba village in neutral territory.
+* [D2535](https://code.wildfiregames.com/D2535): Remove pop cap civ bonuses.
 <!--
 city wall territory influence
 athen metal mining bonus
-maur, pers, spart population cap
+iber starting walls
+ptol free structures
 -->
 
 [(return to table of contents)](https://github.com/0abc/0abc-svn#table-of-contents)
