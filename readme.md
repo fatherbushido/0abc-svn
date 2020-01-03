@@ -28,6 +28,7 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2509](https://code.wildfiregames.com/D2509): Remove territory influence from economic structures.
 * [D2510](https://code.wildfiregames.com/D2510): Change phase requirements.
 * [D2511](https://code.wildfiregames.com/D2511): Give worker elephants an aura instead.
+* [D2530](https://code.wildfiregames.com/D2530): Change `pers_cavalry_archer_*` actor.
 <!--
 city wall territory influence
 athen metal mining bonus
@@ -49,27 +50,27 @@ Also available, although not included in this mod:
 The following patches have been included into Alpha XXIV already:
 * [rP22005](https://code.wildfiregames.com/rP22005): Correct Mauryans into Mauryas.
 * [rP22014](https://code.wildfiregames.com/rP22014): Fix inconsistencies between specific name and generic name.
-* [rP22026](https://code.wildfiregames.com/rP22026): Remove unnecessary gaia from other/ structures.
+* [rP22026](https://code.wildfiregames.com/rP22026): Remove unnecessary gaia from `other/` structures.
 * [rP22031](https://code.wildfiregames.com/rP22031): Templates for domestic horse and camel.
 * [rP22083](https://code.wildfiregames.com/rP22083): Group civ bonuses into a single folder.
 * [rP22061](https://code.wildfiregames.com/rP22061): Merge entity templates, removing two templates with non descriptive names.
-* [rP22115](https://code.wildfiregames.com/rP22115): Move the fish template under template_gaia since fish is a resource like trees and mines.
-* [rP22116](https://code.wildfiregames.com/rP22116): Nuke the misleading Structure_Defence from the wallset template name.
-* [rP22118](https://code.wildfiregames.com/rP22118): Remove a misleading unit_fauna_decorative from the bird template.
-* [rP22120](https://code.wildfiregames.com/rP22120): Change structure_defense to structure_defensive so it is consistent with the other structure types.
+* [rP22115](https://code.wildfiregames.com/rP22115): Move the fish template under `template_gaia` since fish is a resource like trees and mines.
+* [rP22116](https://code.wildfiregames.com/rP22116): Nuke the misleading `Structure_Defence` from the wallset template name.
+* [rP22118](https://code.wildfiregames.com/rP22118): Remove a misleading `unit_fauna_decorative` from the bird template.
+* [rP22120](https://code.wildfiregames.com/rP22120): Change `structure_defense` to `structure_defensive` so it is consistent with the other structure types.
 * [rP22163](https://code.wildfiregames.com/rP22163): Remove unneeded death sounds from structure templates, as they inherit from template_structure.
-* [rP22181](https://code.wildfiregames.com/rP22181): Reduce duplication in template_structure_military*.
+* [rP22181](https://code.wildfiregames.com/rP22181): Reduce duplication in `template_structure_military*`.
 * [rP22182](https://code.wildfiregames.com/rP22182): Add ConquestCritical to structures that want it, instead of removing it from those that don't want it.
 * [rP22190](https://code.wildfiregames.com/rP22190): Unparent the range from the barracks, and reduce the duplication in the civs' range templates.
 * [rP22202](https://code.wildfiregames.com/rP22202): Bring the palisade templates under their own parent (instead of the stone wall).
-* [rP22256](https://code.wildfiregames.com/rP22256): Removes <Actor> from the generic template_* files.
+* [rP22256](https://code.wildfiregames.com/rP22256): Removes <Actor> from the generic `template_*` files.
 * [rP22315](https://code.wildfiregames.com/rP22315): New horse and cattle fauna template corrections.
 * [rP22322](https://code.wildfiregames.com/rP22322): Seperate stable from barracks.
-* [rP22325](https://code.wildfiregames.com/rP22325): Reduce defensive_wall* duplication.
+* [rP22325](https://code.wildfiregames.com/rP22325): Reduce `defensive_wall*` duplication.
 * [rP22329](https://code.wildfiregames.com/rP22329): Merge archery tradition.
 * [rP22502](https://code.wildfiregames.com/rP22502): Clean Gaia's Selectable.
 * [rP22731](https://code.wildfiregames.com/rP22731): Rename gastraphetes template corrects the <Identity> node.
-* [rP22787](https://code.wildfiregames.com/rP22787): Move other/wallset_palisade to structures/wallset_palisade.
+* [rP22787](https://code.wildfiregames.com/rP22787): Move `other/wallset_palisade` to `structures/wallset_palisade`.
 * [rP22809](https://code.wildfiregames.com/rP22809): Change CitizenSoldier class to Citizen and/or Soldier in auras and technologies.
 * [rP22810](https://code.wildfiregames.com/rP22810): Remove Mechanical class in favour or using Siege and Ship.
 * [rP22824](https://code.wildfiregames.com/rP22824): Match unit classes with templates names.
