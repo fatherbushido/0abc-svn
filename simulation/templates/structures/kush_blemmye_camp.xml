@@ -31,7 +31,7 @@
   </Obstruction>
   <ProductionQueue>
     <Entities datatype="tokens">
-      units/{civ}_cavalry_javelinist_merc_b
+      units/blemmye_camel_javelinist_b
     </Entities>
   </ProductionQueue>
   <TerritoryDecay disable=""/>

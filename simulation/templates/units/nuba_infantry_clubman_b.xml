@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_swordsman">
+  <Armour>
+    <Hack op="add">-1</Hack>
+  </Armour>
+  <Attack>
+    <Melee>
+      <Damage>
+        <Hack>3.0</Hack>
+        <Crush>2.5</Crush>
+      </Damage>
+    </Melee>
+  </Attack>
+  <Cost>
+    <Resources>
+      <food op="add">-25</food>
+      <metal op="add">25</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <VisibleClasses datatype="tokens">-Swordsman Clubman Mercenary</VisibleClasses>
+    <SelectionGroupName>units/nuba_infantry_clubman_b</SelectionGroupName>
+    <GenericName>Nuba Clubman</GenericName>
+    <SpecificName>nhw Noba</SpecificName>
+    <Icon>units/kush_infantry_clubman.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+  <Promotion>
+    <Entity>units/nuba_infantry_clubman_a</Entity>
+  </Promotion>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.1</WalkSpeed>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/kushites/infantry_clubman_b.xml</Actor>
+  </VisualActor>
+</Entity>

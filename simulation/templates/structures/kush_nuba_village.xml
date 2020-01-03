@@ -31,8 +31,8 @@
   </Obstruction>
   <ProductionQueue>
     <Entities datatype="tokens">
-      units/{civ}_infantry_clubman_b
-      units/{civ}_infantry_javelinist_merc_b
+      units/nuba_infantry_clubman_b
+      units/nuba_infantry_javelinist_b
     </Entities>
   </ProductionQueue>
   <TerritoryDecay disable=""/>

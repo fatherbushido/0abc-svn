@@ -33,6 +33,7 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2533](https://code.wildfiregames.com/D2533): Train war dogs at barracks.
 * [D2534](https://code.wildfiregames.com/D2534): Allow building Blemmye camp and Nuba village in neutral territory.
 * [D2535](https://code.wildfiregames.com/D2535): Remove pop cap civ bonuses.
+* [D2536](https://code.wildfiregames.com/D2536): Make Blemmye and Nuba mercenaries generic.
 <!--
 city wall territory influence
 athen metal mining bonus
