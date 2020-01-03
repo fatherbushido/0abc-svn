@@ -30,6 +30,7 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2511](https://code.wildfiregames.com/D2511): Give worker elephants an aura instead.
 * [D2530](https://code.wildfiregames.com/D2530): Change `pers_cavalry_archer_*` actor.
 * [D2532](https://code.wildfiregames.com/D2532): Train champion cavalry at stable.
+* [D2533](https://code.wildfiregames.com/D2533): Train war dogs at barracks.
 <!--
 city wall territory influence
 athen metal mining bonus
