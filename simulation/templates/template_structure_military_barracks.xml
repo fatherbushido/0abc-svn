@@ -46,11 +46,16 @@
       units/{civ}_cavalry_javelinist_b
       units/{civ}_cavalry_archer_b
       units/{civ}_war_dog_b
+      units/{civ}_champion_infantry_barracks
+      units/{civ}_champion_cavalry_barracks
+      units/{civ}_champion_chariot_barracks
     </Entities>
     <Technologies datatype="tokens">
       heal_barracks
       training_conscription
       archery_tradition
+      upgrade_rank_advanced_mercenary
+      unlock_champion_units
     </Technologies>
   </ProductionQueue>
   <Sound>

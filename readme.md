@@ -35,7 +35,8 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D2534](https://code.wildfiregames.com/D2534): Allow building Blemmye camp and Nuba village in neutral territory.
 * [D2535](https://code.wildfiregames.com/D2535): Remove pop cap civ bonuses.
 * [D2536](https://code.wildfiregames.com/D2536): Make Blemmye and Nuba mercenaries generic.
-<!--
+* [D2547](https://code.wildfiregames.com/D2547): Allow training barracks champions at any barracks.
+<!-- 
 city wall territory influence
 athen metal mining bonus
 iber starting walls
