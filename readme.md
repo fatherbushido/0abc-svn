@@ -12,7 +12,6 @@ This mod bundles multiple gameplay balance and organizatorial tweaks for the cur
 * [D1863](https://code.wildfiregames.com/D1863): Reduce Blemmye and Nuba camp building time.
 * [D2022](https://code.wildfiregames.com/D2022): Enable archery tradition for kush.
 * [D2300](https://code.wildfiregames.com/D2300): Single walking speed for all citizen infantry.
-* [D2392](https://code.wildfiregames.com/D2392): Team bonus balancing.
 * [D2477](https://code.wildfiregames.com/D2477): Garrison units on short wall segments.
 * [D2493](https://code.wildfiregames.com/D2493): Make siege engines uncapturable.
 * [D2494](https://code.wildfiregames.com/D2494): Tweak artillery attacks.
@@ -82,6 +81,9 @@ The following patches have been included into Alpha XXIV already:
 * [rP22809](https://code.wildfiregames.com/rP22809): Change CitizenSoldier class to Citizen and/or Soldier in auras and technologies.
 * [rP22810](https://code.wildfiregames.com/rP22810): Remove Mechanical class in favour or using Siege and Ship.
 * [rP22824](https://code.wildfiregames.com/rP22824): Match unit classes with templates names.
+* [rP22982](https://code.wildfiregames.com/rP22982): Move palisades from `other/` to `structures/`
 * [rP22984](https://code.wildfiregames.com/rP22984): Enable workshops for all civilisations.
+* [rP23340](https://code.wildfiregames.com/rP23340): `athen_gymnasion.xml` → `athen_gymnasium.xml`
+* [rP23347](https://code.wildfiregames.com/rP23347): `theatron` → `theater`
 
 [(return to table of contents)](https://github.com/0abc/0abc-svn#table-of-contents)
