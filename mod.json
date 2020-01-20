@@ -1,9 +1,11 @@
 {
-  "name": "0abc",
-  "version": "0.24.0",
-  "label": "0 A.D. Available Balance Changes",
-  "url": "https://github.com/0abc/0abc-svn.git",
-  "description": "Multiple gameplay balance and organizatorial tweaks for the current development version of 0 A.D. “Empires Ascendant”.",
-  "dependencies": ["0ad=0.0.24"],
-  "type": "mod"
+	"name": "0abc",
+	"version": "2020.01.15",
+	"label": "0 A.D. Available Balance Changes",
+	"url": "https://github.com/0abc/0abc-svn.git",
+	"description": "Multiple gameplay balance and organizatorial tweaks for the current development version of 0 A.D. “Empires Ascendant”.",
+	"dependencies": [
+		"0ad=0.0.24"
+	],
+	"type": "mod"
 }
